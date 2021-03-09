@@ -3,3 +3,13 @@ Test Case Number,Actual Result,Pass,Date Executed,Time Executed,Test Case Execut
 2,It shown the pricing of subscription,1,2021_02_17,20_52,Vikram Singh
 3,Successfully able to register as new user.,1,2021_03_05,20_52,Vikram Singh
 4,Successfully able to able to login.,1,2021_03_05,20_52,Vikram Singh
+5,I was able to change the password.,1,2021_03_05,20_52,Vikram Singh
+6,Report button was working.,1,2021_03_05,20_52,Vikram Singh
+7,Load Request Report was working.,1,2021_03_05,20_52,Vikram Singh
+8,User interaction Report was working.,1,2021_03_05,20_52,Vikram Singh
+9,Pick up parcel report was working.,1,2021_03_05,20_52,Vikram Singh
+10,Drop Parcel Report was working.,1,2021_03_05,20_52,Vikram Singh
+11,User payment Report was working.,1,2021_03_05,20_52,Vikram Singh
+12,User paid fee Report was working.,1,2021_03_05,20_52,Vikram Singh
+13,Search parcel option is working.,1,2021_03_09,20_30,Vikram Singh
+14,Search vehical option is working.,1,2021_03_09,20_30,Vikram Singh
