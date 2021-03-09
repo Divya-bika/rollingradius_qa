@@ -1,10 +1,29 @@
-Test Case Number,Test Case Creation Date,Test Case Created By,Module Name,Functionality,Sub Functionality,Test Case Summary,Test Case Pre Conditions,Test Case Execution Steps,Test Case Expected Result,Test Case Data,Linked Ticket Numbers,Criticality,Is Automatable,Remarks
+Test Case Number,Test Case Creation Date,Test Case Created By,Module Name,Functionality,Sub Functionality,Test Case Summary,Test Case Pre Conditions,Test Case Execution Steps,Test Case Expected Result,Test Case Data,Linked Ticket Numbers,Criticality,Is Automatable,Remarks,Result
 1,3-Feb-21,Yogesh Sharma,Login,Forgot Password,Send Reset Email,This is to send an email request to reset the forgotten password,Any public user,"1. Go to home page
 2. Click on forgot password link
 3. Provide email address
 4. Click send reset request button
-",Must see a popup saying check email account for a reset password email,email address,GPUP-12345,2,No,just a test case
+",Must see a popup saying check email account for a reset password email,email address,GPUP-12345,2,No,just a test case,NA
 2,17-Feb-21,Vikram Singh,Home Page,Check Pricing,Show the subsciption pricing,This is to check the subscription of pricing.,Any public user,"1. Go to home page
 2. Scroll down and find search subscription.
 3. Click on check pricing.
-",When we click on check pricing button it should show us the price of the subscription for rollingradius.,Pricing,NA,2,No,Pricing structure needs to be changed
+",When we click on check pricing button it should show us the price of the subscription for rollingradius.,Pricing,NA,2,No,Pricing structure needs to be changed,Failed
+3,5-Mar-21,Vikram Singh,Register,Sign up with using a new account,Create a new user,This is to check if we are able to register with new email id or phone numbers,Any public user,"1. Click on ""User"" drop down.
+2. Click on register.","When we click on register it was asking to enter the mobile number and enter the OTP then we can add our basic details like email, name, company name and create password. ",Registration,NA,1,No,Its all good,Passed
+4,5-Mar-21,Vikram Singh,Login,Login to the website as a customer.,Login and work inside the site as per the requirement of the user.,This is to check if we are able to login to the website.,Any public user,"1. Click on ""User"" drop down.
+2. Click on login.",When we click on login it gives us a window to enter our phone number and password and once we put all required information then we will be able to login,Login,NA,1,No,Its all good,Passed
+5,5-Mar-21,Vikram Singh,Forgot Password,Change the password,Change the password,This is to check if forgot password link is working.,Any public user,"1. Click on ""User"" drop down.
+2. Click on forgot password.","When we click on forgot password, It redirect us to the page to enter the phone number and get OTP and once we put the OTP it allows us to change the password.",Changing the password,NA,1,No,Its all good,Passed
+6,5-Mar-21,Vikram Singh,Report Buton,To check the report,So that customer can see the reports,This is to check if report button is working.,Any public user,Click to the report button at the top right next to the customer name.,"When we click on the Report Button, It shows us ""Load Request, User interaction, Pick up parcel, Drop Parcel, User payment & User paid fee"".",Showign Reprots,NA,1,No,Its all good,Passed
+7,5-Mar-21,Vikram Singh,Load Request Report,To check the Load Request Report,So that customer can see the reports,This is to check if Load Request Report is working.,Any public user,"1. Click on Report Button.
+2. Load Request Report","When we click on the load request report, It shows us the report",Showign Reprots,NA,1,No,Its all good,Passed
+8,5-Mar-21,Vikram Singh,User interaction Report,To check the User interaction Report,So that customer can see the reports,This is to check if User interaction Report is working.,Any public user,"1. Click on Report Button.
+2. User interaction Report","When we click on the User interaction report, It shows us the report",Showign Reprots,NA,1,No,Its all good,Passed
+9,5-Mar-21,Vikram Singh,Pick up parcel report,To check the Pick up parcel report,So that customer can see the reports,This is to check if Pick up parcel report is working.,Any public user,"1. Click on Report Button.
+2. Pick up parcel Report","When we click on the Pick up parcel report, It shows us the report",Showign Reprots,NA,1,No,Its all good,Passed
+10,5-Mar-21,Vikram Singh,Drop Parcel Report,To check the Drop Parcel Report,So that customer can see the reports,This is to check if Drop Parcel Report is working.,Any public user,"1. Click on Report Button.
+2. Drop Parcel Report","When we click on the Drop Parcel report, It shows us the report",Showign Reprots,NA,1,No,Its all good,Passed
+11,5-Mar-21,Vikram Singh,User payment Report,To check the User payment Report,So that customer can see the reports,This is to check if User payment Report is working.,Any public user,"1. Click on Report Button.
+2. User payment Report","When we click on the User payment report, It shows us the report",Showign Reprots,NA,1,No,Its all good,Passed
+12,5-Mar-21,Vikram Singh,User paid fee Report,To check the User paid fee Report,So that customer can see the reports,This is to check if User paid fee Report is working.,Any public user,"1. Click on Report Button.
+2. User paid fee Report","When we click on the User paid fee report, It shows us the report",Showign Reprots,NA,1,No,Its all good,Passed
