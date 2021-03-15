@@ -64,3 +64,81 @@ Test Case Number,Actual Result,Pass,Date Executed,Time Executed,Test Case Execut
 63,We are able to see the support details.,Passed,11-Mar-21,,Vikram Singh
 64,We are able to make call by clicking on the phone number. It redirect to the skype to make call on same number.,Passed,11-Mar-21,,Vikram Singh
 65,We are able to make call by clicking on the phone number. It redirect to the skype to make call on same number.,Passed,11-Mar-21,,Vikram Singh
+,,,,,
+Test Case Number,Test Case Expected Result,Result,Test Case Creation Date,Time Executed,Test Case Created By
+RR_01,When we open the  link of rolling radius with proper internet connection it should be open properly as a public user,Passed,10-Mar-21,,Divya Bika
+RR_02,when we click on User we should be able to see all the dropdowns iof login as a public user.,Passed,10-Mar-21,,Divya Bika
+RR_03,When we click on login it should take you to the login page as a public user,Passed,10-Mar-21,,Divya Bika
+RR_04,When we click on login it should take you to the register page as a public user,Passed,10-Mar-21,,Divya Bika
+RR_05,When we click on login it should take you to the forgot password page as a public user,Passed,10-Mar-21,,Divya Bika
+RR_06,When we click on language button it is showing all the languages as a public user,Passed,10-Mar-21,,Divya Bika
+RR_07,When we click on english it is showing all the content in english only as a public user,Passed,10-Mar-21,,Divya Bika
+RR_08,When we clicked on Hindi language it is not showing the content in only Hindi as a public user.,Failed,10-Mar-21,,Divya Bika
+RR_09,When we click on Rolling radius button it is taking us to the home page.,Passed,10-Mar-21,,Divya Bika
+RR_10,When we click on learn more button it is showing more content for the same as a registered user.,Passed,10-Mar-21,,Divya Bika
+RR_11,When we click on Blogs it is not going to the blogs page as a registered user.,Failed,10-Mar-21,,Divya Bika
+RR_12,When we click on support  it is going to the support page as a registered user.,Passed,10-Mar-21,,Divya Bika
+RR_13,When we click on support  it is  showing the call us information as a registered user.,Passed,10-Mar-21,,Divya Bika
+RR_14,When we click on support  it is showing the email information as a registered user.,Passed,10-Mar-21,,Divya Bika
+RR_15,When we click on term and condition it is not going to the term and condition page as a registered user.,Failed,10-Mar-21,,Divya Bika
+RR_16,When we click on privacy policy it it is not going to the privacy policy page as a registered user.,Failed,10-Mar-21,,Divya Bika
+RR_17,When we click on about us it it is not going to the about us page as a registered user.,Failed,10-Mar-21,,Divya Bika
+RR_18,It is asking to use another app for the call as a registered user.,Passed,10-Mar-21,,Divya Bika
+RR_19,It is asking  for another app for doing mail as a registered user.,Passed,10-Mar-21,,Divya Bika
+RR_20,The address is showing the proper address as a registered user.,Passed,10-Mar-21,,Divya Bika
+RR_21,The content of  the truck finder is proper as a registered user.,Passed,10-Mar-21,,Divya Bika
+RR_22,The content of  the load finder is proper as a registered user.,Passed,10-Mar-21,,Divya Bika
+RR_23,The content of  the fleet manager is proper as a registered user.,Passed,10-Mar-21,,Divya Bika
+RR_24,The content of  the trip oragnizer is proper as a registered user.,Passed,10-Mar-21,,Divya Bika
+RR_25,The Search vehicle button should show search vehicle page as a registered user.,Passed,10-Mar-21,,Divya Bika
+RR_26,The search vehicle for this route showing all the searches for this particular route as a registered user.,Passed,10-Mar-21,,Divya Bika
+RR_27,The search vehicle for this route not showing all the searches for this same route as a registered user.,Failed,10-Mar-21,,Divya Bika
+RR_28,The search button in the search for this route showing for the different route as a registered user.,Passed,10-Mar-21,,Divya Bika
+RR_29,The dropdown showing all the dropdowns of that list as a registered user.,Passed,10-Mar-21,,Divya Bika
+RR_30,The placeholder is not there with the dropdown as a registered user.,Failed,10-Mar-21,,Divya Bika
+RR_31,The list is not visible as a registered user.,Failed,10-Mar-21,,Divya Bika
+RR_32,The add button is showing all the add vehicle information to add as a registered user.,Passed,10-Mar-21,,Divya Bika
+RR_33,The manage my vehicle form is not properly filling as a registered user.,Failed,11-Mar-21,,Divya Bika
+RR_34,"The all spellings of textfields are not correct as ""company name""should be ""Company name"" as a registered user.",Partially Failed,11-Mar-21,,Divya Bika
+RR_35,The reports page is not in the website as a registered user.,Failed,11-Mar-21,,Divya Bika
+RR_36,The My trip page is not in the website as a registered user.,Failed,11-Mar-21,,Divya Bika
+RR_37,The map is not showing all the required location as a registered user.,Failed,11-Mar-21,,Divya Bika
+RR_38,The hide map is hiding the map as a registered user.,Passed,11-Mar-21,,Divya Bika
+RR_39,The zoom in zooming in the map as a registered user.,Passed,11-Mar-21,,Divya Bika
+RR_40,The zoom out is Zooming out the map as a registered user.,Passed,11-Mar-21,,Divya Bika
+RR_41,When we click on Blogs it is not going to the blogs page.,Failed,11-Mar-21,,Divya Bika
+RR_42,When we click on support it is  going to the support page.,Passed,11-Mar-21,,Divya Bika
+RR_43,When we click on support  it is showing the call us information .,Passed,11-Mar-21,,Divya Bika
+RR_44,When we click on support  it is showing the email information .,Passed,11-Mar-21,,Divya Bika
+RR_45,When we click on term and condition it is not going to the term and condition page.,Failed,11-Mar-21,,Divya Bika
+RR_46,When we click on privacy policy it is going to the privacy policy page.,Failed,11-Mar-21,,Divya Bika
+RR_47,When we click on about us it is going to the about us page.,Failed,11-Mar-21,,Divya Bika
+RR_48,It is asking to use another app for the call.,Passed,11-Mar-21,,Divya Bika
+RR_49,It is asking for another app for doing mail.,Passed,11-Mar-21,,Divya Bika
+RR_50,The address is showing  the proper address.,Passed,11-Mar-21,,Divya Bika
+RR_51,The content of  the truck finder is proper.,Partially Pass,11-Mar-21,,Divya Bika
+RR_52,The content of  the load finder is proper.,Partially Pass,11-Mar-21,,Divya Bika
+RR_53,The content of  the fleet manager is proper.,Partially Pass,11-Mar-21,,Divya Bika
+RR_54,The content of  the trip oragnizer is proper.,Partially Pass,11-Mar-21,,Divya Bika
+RR_55,The Search vehicle button should show search vehicle page.,Passed,11-Mar-21,,Divya Bika
+RR_56,The search vehicle for this route showing all the searches for this particular route,Failed,11-Mar-21,,Divya Bika
+RR_57,The search vehicle for this route not showing all the searches for this same route.,Failed,11-Mar-21,,Divya Bika
+RR_58,The search button in the search for this route showing for the different route,Passed,11-Mar-21,,Divya Bika
+RR_59,The dropdown should show all the dropdowns of that list.,Passed,11-Mar-21,,Divya Bika
+RR_60,The placeholder is not there with the dropdowns,Failed,11-Mar-21,,Divya Bika
+RR_61,The list is not visible ,Failed,11-Mar-21,,Divya Bika
+RR_62,The add button is showing all the add vehicle information to add,Passed,11-Mar-21,,Divya Bika
+RR_63,The manage my vehicle form is not properly filling.,Failed,11-Mar-21,,Divya Bika
+RR_64,"The all spellings of textfields are not correct as ""company name""should be ""Company name""",Partially Failed,11-Mar-21,,Divya Bika
+RR_65,The reports page is not in the website.,Failed,11-Mar-21,,Divya Bika
+RR_66,The My trip page is not in the website.,Failed,11-Mar-21,,Divya Bika
+RR_67,The map is not showing all the required location,Failed,11-Mar-21,,Divya Bika
+RR_68,The hide map is hiding the map,Passed,11-Mar-21,,Divya Bika
+RR_69,The zoom in zooming in the map,Passed,11-Mar-21,,Divya Bika
+RR_70,The zoom out is Zooming out the map.,Passed,11-Mar-21,,Divya Bika
+RR_71,The Map is properly showing the Map view for location with login,Passed,12-Mar-21,,Divya Bika
+RR_72,The Satellite  is properly showing the satellite view for location with login,Passed,12-Mar-21,,Divya Bika
+RR_73,The Map is properly showing the Map view for location without login,Passed,12-Mar-21,,Divya Bika
+RR_74,The Satellite  is properly showing the satellite view for location without login,Passed,12-Mar-21,,Divya Bika
+RR-75,"In Report the User Interaation report spelling is ""User intrection report""",Failed,12-Mar-21,,Divya Bika
+RR_76,"In report the User Payment report spelling is ""User Payements report"" which is wrong",Failed,12-Mar-21,,Divya Bika
