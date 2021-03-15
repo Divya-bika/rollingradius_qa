@@ -29,3 +29,133 @@ Test Case Number,Test Case Creation Date,Test Case Created By,Module Name,Functi
 2. User paid fee Report","When we click on the User paid fee report, It shows us the report",Showign Reprots,NA,1,No,Its all good,Passed
 13,9-Mar-21,Vikram Singh,Search Pacel ,To search to parcels,So that customer can seach the parcels,To check if search parcel option is working or not,Customer,Click on search parcel at the top of home page.,"When I clicked on search parcel, I was able to search parcels.",Showing Parcels,NA,1,No,Its all good,Passed
 14,9-Mar-21,Vikram Singh,Search Vehical,To search to Vehicals,So that customer can seach the Vehicals,To check if search vehical option is working or not,Customer,Click on search vehical at the top of home page.,"When I clicked on search vehical, I was able to search vehicals.",Showing Vehicals,NA,1,No,Its all good,Passed
+15,10-Mar-21,Vikram Singh,Language ,Its for selecting the language,So that customer can choose the language.,This is to check if language button is working or not,Customer,"1. Go to home page
+2. Click on language.",When I clicked on language its showing to select English and  Hindi language.,Showing languages,NA,3,No,Its all good,Passed
+16,10-Mar-21,Vikram Singh,Language English ,Its for selecting the English language,So that customer can choose the English language.,This is to check if the website language changing to English.,Customer,"1. Go to home page
+2. Click on language.
+3. Select English Language.",When I selected the English language then website content was showing in English.,Changing the language,NA,3,No,Its all good,Passed
+17,10-Mar-21,Vikram Singh,Language Hindi ,Its for selecting the Hindi language,So that customer can choose the Hindi language.,This is to check if the website language changing to Hindi.,Customer,"1. Go to home page
+2. Click on language.
+3. Select Hindi Language.",When I selected the Hindi language then website content was not showing in Hindi.,Changing the language,NA,3,No,Language did not change,Failed
+18,10-Mar-21,Vikram Singh,Learn More Button  ,It for searching the vehical,So customer can find the vehicals.,This is to check if we are able to find the vehicals.,Customer,"1. Go to home page
+2. Click on learn more.
+3. Search Vehicals.",We are able to search vehicals.,Showing the vehical results,NA,2,No,Its all good,Passed
+19,10-Mar-21,Vikram Singh,Search Vehical,It for searching the vehical,So customer can find the vehicals.,This is to check if we are able to find the vehicals.,Customer,"1. Go to home page
+2. Click on learn more.
+3. Search Vehicals.",We are able to search vehicals.,Showing the vehical results,NA,2,No,Its all good,Passed
+20,10-Mar-21,Vikram Singh,Fleet Management,Its for managing vehicals,So customer can add new vehical and check the status of the vehicals.,This is to check if we are able to add new vehical and can check the status of the vehical.,Customer,"1. Go to home page
+2. Click on Fleet Management.",We are able to to see the page for searching vehicle and manage vehicle.,Show the vehical status and add vehicals,NA,1,NO,This function is working,Passed
+21,10-Mar-21,Vikram Singh,Find Load,Its for checking the load data.,So customer can see the data of load.,This is to check if we are able to see the see the load data.,Customer,"1. Go to home page
+2. Click on Find Load.",We are able to see the load data when we click on find load.,It shows the load data,NA,2,No,Its all good,Passed
+22,10-Mar-21,Vikram Singh,Find Load (Pages),Its for checking if next page button working.,Its for checking if next page button working.,Its for checking if next page button working.,Customer,"1. Go to home page
+2. Click on Find Load.
+3. Click on next page.",We are able to go the the next page of load data.,It shows the load data,NA,2,No,Its all good,Passed
+23,10-Mar-21,Vikram Singh,Organize Trip Button,Its for organising the trip.,Organise the trip.,This is to check if we are able to Organise the trip.,Customer,"1. Go to home page
+2. Click on organize trip.",We are able to get into organize trip and this button was working fine.,It creates a trip.,NA,1,No,Its all good,Passed
+24,10-Mar-21,Vikram Singh,Organize Trip - My Parcel,It shows customers parcels.,It shows customers parcels.,This is to check if we are able to go to my parcel.,Customer,"1. Go to home page
+2. Click on organize trip.
+3. Click on My Parcel",We are able to click on my parcel and this link is working.,It shows customers parcels.,NA,1,No,Its all good,Passed
+25,10-Mar-21,Vikram Singh,Organize Trip - Add Vehical,It allows customer to add parcels.,Add parcels.,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD
+26,10-Mar-21,Vikram Singh,Membership Price ,It shows subscription plan to customers.,Customer can make the payment according to the plan.,This is to check if we are able to see the plans.,Customer,"1. Go to home page
+2. Click on Membership Price.",We are able to see the membership price.,It shows the subscription plans.,NA,2,NO,Its all good,Passed
+27,10-Mar-21,Vikram Singh,Membership Price - Your Payment,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD
+28,10-Mar-21,Vikram Singh,Membership Contact Us,To show the customer care contact information.,To show the customer care contact information.,This is to check if we are able to contact to site admin for help.,Customer,"1. Go to home page
+2. Click on Membership Contact us.",We are not able to see the contact information and this button does not function at all.,It supposed to show the contact information.,NA,1,No,Button does not fuction,Failed
+29,10-Mar-21,Vikram Singh,Advertisement Price ,To show the price for advertisement.,To show the price for advertisement.,This is to check if we are able to see the price to post our add on the website.,Customer,"1. Go to home page
+2. Click on Advertisement Price.",We are not able to see the price and this button does not function at all.,It supposed to show us the price for placing the add on the website.,NA,2,No,Button does not fuction,Failed
+30,10-Mar-21,Vikram Singh,Advertisement Contact Us,To show the contact information.,To show the contact information.,This is to check if we are able to contact to site admin for help.,Customer,"1. Go to home page
+2. Click on Advertisement Contact us.",We are not able to see the contact information and this button does not function at all.,It supposed to show the contact information.,NA,1,No,Button does not fuction,Failed
+31,10-Mar-21,Vikram Singh,Quick Links Get Started,TBD,TBD,TBD,Customer,"1. Go to home page
+2. Go to quick links
+3. Click on Get Started",We are not able to redirect to any link when clicked on get started. This function is not working.,TBD,NA,2,No,Button does not fuction,Failed
+32,10-Mar-21,Vikram Singh,Quick Links Search Vehicle,It for searching the vehical,So customer can find the vehicals.,This is to check if quick links search vehical button working.,Customer,"1. Go to home page
+2. Go to quick links
+3. Click on Search Vehical",We are able to search vehicals.,Showing the vehical results,NA,2,No,Its all good,Passed
+33,10-Mar-21,Vikram Singh,Quick Links Search Parcel,To search to parcels,So that customer can seach the parcels,To check if quick link search parcel option is working or not,Customer,"1. Go to home page
+2. Go to quick links
+3. Click on Search Parcel","When I clicked on search parcel, I was able to search parcels.",Showing Parcels,NA,1,No,Its all good,Passed
+34,10-Mar-21,Vikram Singh,Quick Links Join Us,To join the rollingradius.,Make the payment for subscription.,This is to check if quick link join us is working or not.,Customer,"1. Go to home page
+2. Go to quick links
+3. Click on Join us",When I clicked on join us from quick links then it redirect to show me the subscription plan. It seems working.,Showing subscription plans.,NA,2,No,Its all good,Passed
+35,10-Mar-21,Vikram Singh,Quick Links Vehicle Ads,To show the vehicle adds,To show the vehicle adds,This is to check if quik link vehicle adds working.,Customer,"1. Go to home page
+2. Go to quick links
+3. Click on Vehicle Adds",When I clicked on vehicle add then it redirect to home page but did not show anything new content so we consider this scenario to failed.,Show vehical adds,NA,2,No,Button fuctions but does not show any add.,Failed
+36,10-Mar-21,Vikram Singh,Language (without Login),Its for selecting the language,So that customer can choose the language.,This is to check if language button is working or not without login.,Customer,"1. Go to home page
+2. Click on language.",When I clicked on language its showing to select English and  Hindi language.,Showing languages,NA,3,No,Its all good,Passed
+37,10-Mar-21,Vikram Singh,Language English (without login),Its for selecting the English language,So that customer can choose the English language.,This is to check if the website language changing to English without login.,Customer,"1. Go to home page
+2. Click on language.
+3. Select English Language.",When I selected the English language then website content was showing in English.,Changing the language,NA,3,No,Its all good,Passed
+38,10-Mar-21,Vikram Singh,Language Hindi (without login),Its for selecting the Hindi language,So that customer can choose the Hindi language.,This is to check if the website language changing to Hindi without login.,Customer,"1. Go to home page
+2. Click on language.
+3. Select Hindi Language.",When I selected the Hindi language then website content was not showing in Hindi.,Changing the language,NA,3,No,Language did not change,Failed
+39,10-Mar-21,Vikram Singh,Learn More Button  (Without Login),It for searching the vehical,So customer can find the vehicals.,This is to check if we are able to find the vehicals without login.,Customer,"1. Go to home page
+2. Click on learn more.
+3. Search Vehicals.",We are able to search vehicals.,Showing the vehical results,NA,2,No,Its all good,Passed
+40,10-Mar-21,Vikram Singh,Search Vehical (Without Login),It for searching the vehical,So customer can find the vehicals.,This is to check if we are able to find the vehicals without login.,Customer,"1. Go to home page
+2. Click on learn more.
+3. Search Vehicals.",We are able to search vehicals.,Showing the vehical results,NA,2,No,Its all good,Passed
+41,10-Mar-21,Vikram Singh,Fleet Management (Without Login),Its for managing vehicals,So customer can add new vehical and check the status of the vehicals.,This is to check if we are able to add new vehical and can check the status of the vehical without login,Customer,"1. Go to home page
+2. Click on Fleet Management.",We are able to to see the page for searching vehicle and manage vehicle.,Show the vehical status and add vehicals,NA,1,NO,This function is working,Passed
+42,10-Mar-21,Vikram Singh,Find Load (Without Login),Its for checking the load data.,So customer can see the data of load.,This is to check if we are able to see the see the load data without login,Customer,"1. Go to home page
+2. Click on Find Load.",We are able to see the load data when we click on find load.,It shows the load data,NA,2,No,Its all good,Passed
+43,10-Mar-21,Vikram Singh,Find Load (Pages) Without Login,Its for checking if next page button working.,Its for checking if next page button working.,Its for checking if next page button working without login,Customer,"1. Go to home page
+2. Click on Find Load.
+3. Click on next page.",We are able to go the the next page of load data.,It shows the load data,NA,2,No,Its all good,Passed
+44,10-Mar-21,Vikram Singh,Organize Trip Button (Without Login),Its for organising the trip.,Organise the trip.,This is to check if we are able to Organise the trip without login,Customer,"1. Go to home page
+2. Click on organize trip.",Link is working however it does not show any content.,It creates a trip.,NA,1,No,Does not show the content,Failed
+45,10-Mar-21,Vikram Singh,Membership Price (Without Login),It shows subscription plan to customers.,Customer can make the payment according to the plan.,This is to check if we are able to see the plans without login.,Customer,"1. Go to home page
+2. Click on Membership Price.",Link redirect however we are not able to see the membership price.,Its supposed to show the membership plan.,NA,2,NO,It did not show the plan.,Failed
+46,10-Mar-21,Vikram Singh,Membership Contact Us (Without Login),To show the customer care contact information.,To show the customer care contact information.,This is to check if we are able to contact to site admin for help without login.,Customer,"1. Go to home page
+2. Click on Membership Contact us.",We are not able to see the contact information and this button does not function at all.,It supposed to show the contact information.,NA,1,No,Button does not fuction,Failed
+47,10-Mar-21,Vikram Singh,Advertisement Price (Without Login),To show the price for advertisement.,To show the price for advertisement.,This is to check if we are able to see the price to post our add on the website without login.,Customer,"1. Go to home page
+2. Click on Advertisement Price.",We are not able to see the price and this button does not function at all.,It supposed to show us the price for placing the add on the website.,NA,2,No,Button does not fuction,Failed
+48,10-Mar-21,Vikram Singh,Advertisement Contact Us (Without Login),To show the contact information.,To show the contact information.,This is to check if we are able to contact to site admin for help without login.,Customer,"1. Go to home page
+2. Click on Advertisement Contact us.",We are not able to see the contact information and this button does not function at all.,It supposed to show the contact information.,NA,1,No,Button does not fuction,Failed
+49,10-Mar-21,Vikram Singh,Quick Links Get Started (Without Login),TBD,TBD,TBD,Customer,"1. Go to home page
+2. Go to quick links
+3. Click on Get Started",We are not able to redirect to any link when clicked on get started. This function is not working.,TBD,NA,2,No,Button does not fuction,Failed
+50,10-Mar-21,Vikram Singh,Quick Links Search Vehicle (Without Login),It for searching the vehical,So customer can find the vehicals.,This is to check if quick links search vehical button working without login.,Customer,"1. Go to home page
+2. Go to quick links
+3. Click on Search Vehical",We are able to search vehicals.,Showing the vehical results,NA,2,No,Its all good,Passed
+51,10-Mar-21,Vikram Singh,Quick Links Search Parcel (Without Login),To search to parcels,So that customer can seach the parcels,To check if quick link search parcel option is working or not without login.,Customer,"1. Go to home page
+2. Go to quick links
+3. Click on Search Parcel","When I clicked on search parcel, it redirected but it did not show anything.",Showing Parcels,NA,1,No,Did not show any content.,Failed
+52,10-Mar-21,Vikram Singh,Quick Links Join Us (Without login),To join the rollingradius.,Make the payment for subscription.,This is to check if quick link join us is working or not without login.,Customer,"1. Go to home page
+2. Go to quick links
+3. Click on Join us",When I clicked on join us from quick links then it redirected but did not show the subscription plans.,Showing subscription plans.,NA,2,No,Did not show the subscription plan.,Failed
+53,10-Mar-21,Vikram Singh,Quick Links Vehicle Ads (Without Login),To show the vehicle adds,To show the vehicle adds,This is to check if quik link vehicle adds working without login.,Customer,"1. Go to home page
+2. Go to quick links
+3. Click on Vehicle Adds",When I clicked on vehicle add then it redirect to home page but did not show anything new content so we consider this scenario to failed.,Show vehical adds,NA,2,No,Button fuctions but does not show any add.,Failed
+54,11-Mar-21,Vikram Singh,Logout,To logout from website.,To logout from website.,This is to check if we can logout from the website.,Customer,"1. Go to home page
+2. Click on logout.",Logout,We are able to logout from the user account.,NA,1,No,It let us logout.,Passed
+55,11-Mar-21,Vikram Singh,Settings,To go to the settings.,Edit the profile.,This is to check if setting button working fine.,Customer,"1. Go to home page
+2. Click on Settings.",Settings,We are able to go to the setting options.,NA,1,No,It let us go to settings.,Passed
+56,11-Mar-21,Vikram Singh,Settings - Profile,To go to the profile,Edit the profile.,This is to check if we can get into profile.,Customer,"1. Go to home page
+2. Click on Settings.
+3. Click on profile.",User Profile.,Profile link is not working. It does not do anything when we click on that.,NA,1,No,Profile does not open.,Failed
+57,11-Mar-21,Vikram Singh,Settings - Company,To go to company,Add company details,This is to check if we can enter into company.,Customer,"1. Go to home page
+2. Click on Settings.
+3. Click on company.",Company Details,We are able to get into company. This fucntion is working fine.,NA,2,No,Its opening the company details.,Passed
+58,11-Mar-21,Vikram Singh,Settings - Company - Add Company,To add the company,Add company details,This is to check if we can add the company details.,Customer,"1. Go to home page
+2. Click on Settings.
+3. Click on company.
+4. Click on add company.",Add Company,It let us open the form but when we select the city and state then nothing comes up from the drop down. When we type manually it does not take take that and wont allow us to submit.,NA,1,No,Could not add the company,Failed
+59,11-Mar-21,Vikram Singh,Settings - Company - Add Worker,To add worker,Add Worker details.,This is to check if we can add the worker details.,Customer,"1. Go to home page
+2. Click on Settings.
+3. Click on company.
+4. Click on add worker.",Add worker,It let us open the form but when we select the company and location then nothing comes up from the drop down. When we type manually it does not take take that and wont allow us to add.,NA,1,No,Could not add the worker,Failed
+60,11-Mar-21,Vikram Singh,Settings - Add Preffered Vehical,To add vehical,Add Vehical,This is to check if we can add the vehical.,Customer,"1. Go to home page
+2. Click on Settings.
+3. Click on add preffered vehical.",Add vehical,We are able to select the partner company from the dropdown but nothing comes up in user company and it doesnot let us type manually.,NA,1,No,Clould not add the preffered vehical.,Failed
+61,11-Mar-21,Vikram Singh,Market Link,To open the market,To open the market,This is to check if we are able to open the market.,Customer,"1. Go to home page
+2. Click on market",Market,When we clicked on market it redirected back to the home page of RR it did not open any market.,NA,1,No,Could not open the market,Failed
+62,11-Mar-21,Vikram Singh,Payment,To make the payment.,Get the subscription or renew the subscription.,This is to check if payment link is working.,Customer,"1. Go to home page
+2. Click on Payment",It shows the subscription plans.,We are able to see the membership price.,NA,2,NO,Its all good,Passed
+63,11-Mar-21,Vikram Singh,Support,to get the customer care support.,to get the customer care support.,This is to check if support link is working.,Customer,"1. Go to home page
+2. Click on support",It shows the customer support details.,We are able to see the support details.,NA,1,NO,Its all good,Passed
+64,11-Mar-21,Vikram Singh,Support - Phone number,To contact customer care by phone number.,To make the call by phone number.,This is to check if we are able to make the call by clicking on the phone number.,Customer,"1. Go to home page
+2. Click on support
+3. Click on phone number.",It let us make the call to customer care.,We are able to make call by clicking on the phone number. It redirect to the skype to make call on same number.,NA,1,NO,Its all good,Passed
+65,11-Mar-21,Vikram Singh,Support - Email Address,To contact customer care by email address.,To make the call by phone number.,This is to check if we are able to make the call by clicking on the phone number.,Customer,"1. Go to home page
+2. Click on support
+3. Click on phone number.",It let us make the call to customer care.,We are able to make call by clicking on the phone number. It redirect to the skype to make call on same number.,NA,1,NO,Its all good,Passed

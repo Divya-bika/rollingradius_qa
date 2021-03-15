@@ -1,15 +1,66 @@
 Test Case Number,Actual Result,Pass,Date Executed,Time Executed,Test Case Executed By
-1,Saw the popup,1,2021_02_09,14_30,Yogesh
-2,It shown the pricing of subscription,1,2021_02_17,20_52,Vikram Singh
-3,Successfully able to register as new user.,1,2021_03_05,20_52,Vikram Singh
-4,Successfully able to able to login.,1,2021_03_05,20_52,Vikram Singh
-5,I was able to change the password.,1,2021_03_05,20_52,Vikram Singh
-6,Report button was working.,1,2021_03_05,20_52,Vikram Singh
-7,Load Request Report was working.,1,2021_03_05,20_52,Vikram Singh
-8,User interaction Report was working.,1,2021_03_05,20_52,Vikram Singh
-9,Pick up parcel report was working.,1,2021_03_05,20_52,Vikram Singh
-10,Drop Parcel Report was working.,1,2021_03_05,20_52,Vikram Singh
-11,User payment Report was working.,1,2021_03_05,20_52,Vikram Singh
-12,User paid fee Report was working.,1,2021_03_05,20_52,Vikram Singh
-13,Search parcel option is working.,1,2021_03_09,20_30,Vikram Singh
-14,Search vehical option is working.,1,2021_03_09,20_30,Vikram Singh
+1,Must see a popup saying check email account for a reset password email,NA,3-Feb-21,,Yogesh
+2,When we click on check pricing button it should show us the price of the subscription for rollingradius.,Failed,17-Feb-21,,Vikram Singh
+3,"When we click on register it was asking to enter the mobile number and enter the OTP then we can add our basic details like email, name, company name and create password. ",Passed,5-Mar-21,,Vikram Singh
+4,When we click on login it gives us a window to enter our phone number and password and once we put all required information then we will be able to login,Passed,5-Mar-21,,Vikram Singh
+5,"When we click on forgot password, It redirect us to the page to enter the phone number and get OTP and once we put the OTP it allows us to change the password.",Passed,5-Mar-21,,Vikram Singh
+6,"When we click on the Report Button, It shows us ""Load Request, User interaction, Pick up parcel, Drop Parcel, User payment & User paid fee"".",Passed,5-Mar-21,,Vikram Singh
+7,"When we click on the load request report, It shows us the report",Passed,5-Mar-21,,Vikram Singh
+8,"When we click on the User interaction report, It shows us the report",Passed,5-Mar-21,,Vikram Singh
+9,"When we click on the Pick up parcel report, It shows us the report",Passed,5-Mar-21,,Vikram Singh
+10,"When we click on the Drop Parcel report, It shows us the report",Passed,5-Mar-21,,Vikram Singh
+11,"When we click on the User payment report, It shows us the report",Passed,5-Mar-21,,Vikram Singh
+12,"When we click on the User paid fee report, It shows us the report",Passed,5-Mar-21,,Vikram Singh
+13,"When I clicked on search parcel, I was able to search parcels.",Passed,9-Mar-21,,Vikram Singh
+14,"When I clicked on search vehical, I was able to search vehicals.",Passed,9-Mar-21,,Vikram Singh
+15,When I clicked on language its showing to select English and  Hindi language.,Passed,10-Mar-21,,Vikram Singh
+16,When I selected the English language then website content was showing in English.,Passed,10-Mar-21,,Vikram Singh
+17,When I selected the Hindi language then website content was not showing in Hindi.,Failed,10-Mar-21,,Vikram Singh
+18,We are able to search vehicals.,Passed,10-Mar-21,,Vikram Singh
+19,We are able to search vehicals.,Passed,10-Mar-21,,Vikram Singh
+20,We are able to to see the page for searching vehicle and manage vehicle.,Passed,10-Mar-21,,Vikram Singh
+21,We are able to see the load data when we click on find load.,Passed,10-Mar-21,,Vikram Singh
+22,We are able to go the the next page of load data.,Passed,10-Mar-21,,Vikram Singh
+23,We are able to get into organize trip and this button was working fine.,Passed,10-Mar-21,,Vikram Singh
+24,We are able to click on my parcel and this link is working.,Passed,10-Mar-21,,Vikram Singh
+25,TBD,TBD,10-Mar-21,,Vikram Singh
+26,We are able to see the membership price.,Passed,10-Mar-21,,Vikram Singh
+27,TBD,TBD,10-Mar-21,,Vikram Singh
+28,We are not able to see the contact information and this button does not function at all.,Failed,10-Mar-21,,Vikram Singh
+29,We are not able to see the price and this button does not function at all.,Failed,10-Mar-21,,Vikram Singh
+30,We are not able to see the contact information and this button does not function at all.,Failed,10-Mar-21,,Vikram Singh
+31,We are not able to redirect to any link when clicked on get started. This function is not working.,Failed,10-Mar-21,,Vikram Singh
+32,We are able to search vehicals.,Passed,10-Mar-21,,Vikram Singh
+33,"When I clicked on search parcel, I was able to search parcels.",Passed,10-Mar-21,,Vikram Singh
+34,When I clicked on join us from quick links then it redirect to show me the subscription plan. It seems working.,Passed,10-Mar-21,,Vikram Singh
+35,When I clicked on vehicle add then it redirect to home page but did not show anything new content so we consider this scenario to failed.,Failed,10-Mar-21,,Vikram Singh
+36,When I clicked on language its showing to select English and  Hindi language.,Passed,10-Mar-21,,Vikram Singh
+37,When I selected the English language then website content was showing in English.,Passed,10-Mar-21,,Vikram Singh
+38,When I selected the Hindi language then website content was not showing in Hindi.,Failed,10-Mar-21,,Vikram Singh
+39,We are able to search vehicals.,Passed,10-Mar-21,,Vikram Singh
+40,We are able to search vehicals.,Passed,10-Mar-21,,Vikram Singh
+41,We are able to to see the page for searching vehicle and manage vehicle.,Passed,10-Mar-21,,Vikram Singh
+42,We are able to see the load data when we click on find load.,Passed,10-Mar-21,,Vikram Singh
+43,We are able to go the the next page of load data.,Passed,10-Mar-21,,Vikram Singh
+44,Link is working however it does not show any content.,Failed,10-Mar-21,,Vikram Singh
+45,Link redirect however we are not able to see the membership price.,Failed,10-Mar-21,,Vikram Singh
+46,We are not able to see the contact information and this button does not function at all.,Failed,10-Mar-21,,Vikram Singh
+47,We are not able to see the price and this button does not function at all.,Failed,10-Mar-21,,Vikram Singh
+48,We are not able to see the contact information and this button does not function at all.,Failed,10-Mar-21,,Vikram Singh
+49,We are not able to redirect to any link when clicked on get started. This function is not working.,Failed,10-Mar-21,,Vikram Singh
+50,We are able to search vehicals.,Passed,10-Mar-21,,Vikram Singh
+51,"When I clicked on search parcel, it redirected but it did not show anything.",Failed,10-Mar-21,,Vikram Singh
+52,When I clicked on join us from quick links then it redirected but did not show the subscription plans.,Failed,10-Mar-21,,Vikram Singh
+53,When I clicked on vehicle add then it redirect to home page but did not show anything new content so we consider this scenario to failed.,Failed,10-Mar-21,,Vikram Singh
+54,We are able to logout from the user account.,Passed,11-Mar-21,,Vikram Singh
+55,We are able to go to the setting options.,Passed,11-Mar-21,,Vikram Singh
+56,Profile link is not working. It does not do anything when we click on that.,Failed,11-Mar-21,,Vikram Singh
+57,We are able to get into company. This fucntion is working fine.,Passed,11-Mar-21,,Vikram Singh
+58,It let us open the form but when we select the city and state then nothing comes up from the drop down. When we type manually it does not take take that and wont allow us to submit.,Failed,11-Mar-21,,Vikram Singh
+59,It let us open the form but when we select the company and location then nothing comes up from the drop down. When we type manually it does not take take that and wont allow us to add.,Failed,11-Mar-21,,Vikram Singh
+60,We are able to select the partner company from the dropdown but nothing comes up in user company and it doesnot let us type manually.,Failed,11-Mar-21,,Vikram Singh
+61,When we clicked on market it redirected back to the home page of RR it did not open any market.,Failed,11-Mar-21,,Vikram Singh
+62,We are able to see the membership price.,Passed,11-Mar-21,,Vikram Singh
+63,We are able to see the support details.,Passed,11-Mar-21,,Vikram Singh
+64,We are able to make call by clicking on the phone number. It redirect to the skype to make call on same number.,Passed,11-Mar-21,,Vikram Singh
+65,We are able to make call by clicking on the phone number. It redirect to the skype to make call on same number.,Passed,11-Mar-21,,Vikram Singh
