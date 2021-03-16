@@ -1,144 +1,142 @@
 Test Case Number,Actual Result,Pass,Date Executed,Time Executed,Test Case Executed By
-1,Must see a popup saying check email account for a reset password email,NA,3-Feb-21,,Yogesh
-2,When we click on check pricing button it should show us the price of the subscription for rollingradius.,Failed,17-Feb-21,,Vikram Singh
-3,"When we click on register it was asking to enter the mobile number and enter the OTP then we can add our basic details like email, name, company name and create password. ",Passed,5-Mar-21,,Vikram Singh
-4,When we click on login it gives us a window to enter our phone number and password and once we put all required information then we will be able to login,Passed,5-Mar-21,,Vikram Singh
-5,"When we click on forgot password, It redirect us to the page to enter the phone number and get OTP and once we put the OTP it allows us to change the password.",Passed,5-Mar-21,,Vikram Singh
-6,"When we click on the Report Button, It shows us ""Load Request, User interaction, Pick up parcel, Drop Parcel, User payment & User paid fee"".",Passed,5-Mar-21,,Vikram Singh
-7,"When we click on the load request report, It shows us the report",Passed,5-Mar-21,,Vikram Singh
-8,"When we click on the User interaction report, It shows us the report",Passed,5-Mar-21,,Vikram Singh
-9,"When we click on the Pick up parcel report, It shows us the report",Passed,5-Mar-21,,Vikram Singh
-10,"When we click on the Drop Parcel report, It shows us the report",Passed,5-Mar-21,,Vikram Singh
-11,"When we click on the User payment report, It shows us the report",Passed,5-Mar-21,,Vikram Singh
-12,"When we click on the User paid fee report, It shows us the report",Passed,5-Mar-21,,Vikram Singh
-13,"When I clicked on search parcel, I was able to search parcels.",Passed,9-Mar-21,,Vikram Singh
-14,"When I clicked on search vehical, I was able to search vehicals.",Passed,9-Mar-21,,Vikram Singh
-15,When I clicked on language its showing to select English and  Hindi language.,Passed,10-Mar-21,,Vikram Singh
-16,When I selected the English language then website content was showing in English.,Passed,10-Mar-21,,Vikram Singh
-17,When I selected the Hindi language then website content was not showing in Hindi.,Failed,10-Mar-21,,Vikram Singh
-18,We are able to search vehicals.,Passed,10-Mar-21,,Vikram Singh
-19,We are able to search vehicals.,Passed,10-Mar-21,,Vikram Singh
-20,We are able to to see the page for searching vehicle and manage vehicle.,Passed,10-Mar-21,,Vikram Singh
-21,We are able to see the load data when we click on find load.,Passed,10-Mar-21,,Vikram Singh
-22,We are able to go the the next page of load data.,Passed,10-Mar-21,,Vikram Singh
-23,We are able to get into organize trip and this button was working fine.,Passed,10-Mar-21,,Vikram Singh
-24,We are able to click on my parcel and this link is working.,Passed,10-Mar-21,,Vikram Singh
-25,TBD,TBD,10-Mar-21,,Vikram Singh
-26,We are able to see the membership price.,Passed,10-Mar-21,,Vikram Singh
-27,TBD,TBD,10-Mar-21,,Vikram Singh
-28,We are not able to see the contact information and this button does not function at all.,Failed,10-Mar-21,,Vikram Singh
-29,We are not able to see the price and this button does not function at all.,Failed,10-Mar-21,,Vikram Singh
-30,We are not able to see the contact information and this button does not function at all.,Failed,10-Mar-21,,Vikram Singh
-31,We are not able to redirect to any link when clicked on get started. This function is not working.,Failed,10-Mar-21,,Vikram Singh
-32,We are able to search vehicals.,Passed,10-Mar-21,,Vikram Singh
-33,"When I clicked on search parcel, I was able to search parcels.",Passed,10-Mar-21,,Vikram Singh
-34,When I clicked on join us from quick links then it redirect to show me the subscription plan. It seems working.,Passed,10-Mar-21,,Vikram Singh
-35,When I clicked on vehicle add then it redirect to home page but did not show anything new content so we consider this scenario to failed.,Failed,10-Mar-21,,Vikram Singh
-36,When I clicked on language its showing to select English and  Hindi language.,Passed,10-Mar-21,,Vikram Singh
-37,When I selected the English language then website content was showing in English.,Passed,10-Mar-21,,Vikram Singh
-38,When I selected the Hindi language then website content was not showing in Hindi.,Failed,10-Mar-21,,Vikram Singh
-39,We are able to search vehicals.,Passed,10-Mar-21,,Vikram Singh
-40,We are able to search vehicals.,Passed,10-Mar-21,,Vikram Singh
-41,We are able to to see the page for searching vehicle and manage vehicle.,Passed,10-Mar-21,,Vikram Singh
-42,We are able to see the load data when we click on find load.,Passed,10-Mar-21,,Vikram Singh
-43,We are able to go the the next page of load data.,Passed,10-Mar-21,,Vikram Singh
-44,Link is working however it does not show any content.,Failed,10-Mar-21,,Vikram Singh
-45,Link redirect however we are not able to see the membership price.,Failed,10-Mar-21,,Vikram Singh
-46,We are not able to see the contact information and this button does not function at all.,Failed,10-Mar-21,,Vikram Singh
-47,We are not able to see the price and this button does not function at all.,Failed,10-Mar-21,,Vikram Singh
-48,We are not able to see the contact information and this button does not function at all.,Failed,10-Mar-21,,Vikram Singh
-49,We are not able to redirect to any link when clicked on get started. This function is not working.,Failed,10-Mar-21,,Vikram Singh
-50,We are able to search vehicals.,Passed,10-Mar-21,,Vikram Singh
-51,"When I clicked on search parcel, it redirected but it did not show anything.",Failed,10-Mar-21,,Vikram Singh
-52,When I clicked on join us from quick links then it redirected but did not show the subscription plans.,Failed,10-Mar-21,,Vikram Singh
-53,When I clicked on vehicle add then it redirect to home page but did not show anything new content so we consider this scenario to failed.,Failed,10-Mar-21,,Vikram Singh
-54,We are able to logout from the user account.,Passed,11-Mar-21,,Vikram Singh
-55,We are able to go to the setting options.,Passed,11-Mar-21,,Vikram Singh
-56,Profile link is not working. It does not do anything when we click on that.,Failed,11-Mar-21,,Vikram Singh
-57,We are able to get into company. This fucntion is working fine.,Passed,11-Mar-21,,Vikram Singh
-58,It let us open the form but when we select the city and state then nothing comes up from the drop down. When we type manually it does not take take that and wont allow us to submit.,Failed,11-Mar-21,,Vikram Singh
-59,It let us open the form but when we select the company and location then nothing comes up from the drop down. When we type manually it does not take take that and wont allow us to add.,Failed,11-Mar-21,,Vikram Singh
-60,We are able to select the partner company from the dropdown but nothing comes up in user company and it doesnot let us type manually.,Failed,11-Mar-21,,Vikram Singh
-61,When we clicked on market it redirected back to the home page of RR it did not open any market.,Failed,11-Mar-21,,Vikram Singh
-62,We are able to see the membership price.,Passed,11-Mar-21,,Vikram Singh
-63,We are able to see the support details.,Passed,11-Mar-21,,Vikram Singh
-64,We are able to make call by clicking on the phone number. It redirect to the skype to make call on same number.,Passed,11-Mar-21,,Vikram Singh
-65,We are able to make call by clicking on the phone number. It redirect to the skype to make call on same number.,Passed,11-Mar-21,,Vikram Singh
-,,,,,
-Test Case Number,Test Case Expected Result,Result,Test Case Creation Date,Time Executed,Test Case Created By
-RR_01,When we open the  link of rolling radius with proper internet connection it should be open properly as a public user,Passed,10-Mar-21,,Divya Bika
-RR_02,when we click on User we should be able to see all the dropdowns iof login as a public user.,Passed,10-Mar-21,,Divya Bika
-RR_03,When we click on login it should take you to the login page as a public user,Passed,10-Mar-21,,Divya Bika
-RR_04,When we click on login it should take you to the register page as a public user,Passed,10-Mar-21,,Divya Bika
-RR_05,When we click on login it should take you to the forgot password page as a public user,Passed,10-Mar-21,,Divya Bika
-RR_06,When we click on language button it is showing all the languages as a public user,Passed,10-Mar-21,,Divya Bika
-RR_07,When we click on english it is showing all the content in english only as a public user,Passed,10-Mar-21,,Divya Bika
-RR_08,When we clicked on Hindi language it is not showing the content in only Hindi as a public user.,Failed,10-Mar-21,,Divya Bika
-RR_09,When we click on Rolling radius button it is taking us to the home page.,Passed,10-Mar-21,,Divya Bika
-RR_10,When we click on learn more button it is showing more content for the same as a registered user.,Passed,10-Mar-21,,Divya Bika
-RR_11,When we click on Blogs it is not going to the blogs page as a registered user.,Failed,10-Mar-21,,Divya Bika
-RR_12,When we click on support  it is going to the support page as a registered user.,Passed,10-Mar-21,,Divya Bika
-RR_13,When we click on support  it is  showing the call us information as a registered user.,Passed,10-Mar-21,,Divya Bika
-RR_14,When we click on support  it is showing the email information as a registered user.,Passed,10-Mar-21,,Divya Bika
-RR_15,When we click on term and condition it is not going to the term and condition page as a registered user.,Failed,10-Mar-21,,Divya Bika
-RR_16,When we click on privacy policy it it is not going to the privacy policy page as a registered user.,Failed,10-Mar-21,,Divya Bika
-RR_17,When we click on about us it it is not going to the about us page as a registered user.,Failed,10-Mar-21,,Divya Bika
-RR_18,It is asking to use another app for the call as a registered user.,Passed,10-Mar-21,,Divya Bika
-RR_19,It is asking  for another app for doing mail as a registered user.,Passed,10-Mar-21,,Divya Bika
-RR_20,The address is showing the proper address as a registered user.,Passed,10-Mar-21,,Divya Bika
-RR_21,The content of  the truck finder is proper as a registered user.,Passed,10-Mar-21,,Divya Bika
-RR_22,The content of  the load finder is proper as a registered user.,Passed,10-Mar-21,,Divya Bika
-RR_23,The content of  the fleet manager is proper as a registered user.,Passed,10-Mar-21,,Divya Bika
-RR_24,The content of  the trip oragnizer is proper as a registered user.,Passed,10-Mar-21,,Divya Bika
-RR_25,The Search vehicle button should show search vehicle page as a registered user.,Passed,10-Mar-21,,Divya Bika
-RR_26,The search vehicle for this route showing all the searches for this particular route as a registered user.,Passed,10-Mar-21,,Divya Bika
-RR_27,The search vehicle for this route not showing all the searches for this same route as a registered user.,Failed,10-Mar-21,,Divya Bika
-RR_28,The search button in the search for this route showing for the different route as a registered user.,Passed,10-Mar-21,,Divya Bika
-RR_29,The dropdown showing all the dropdowns of that list as a registered user.,Passed,10-Mar-21,,Divya Bika
-RR_30,The placeholder is not there with the dropdown as a registered user.,Failed,10-Mar-21,,Divya Bika
-RR_31,The list is not visible as a registered user.,Failed,10-Mar-21,,Divya Bika
-RR_32,The add button is showing all the add vehicle information to add as a registered user.,Passed,10-Mar-21,,Divya Bika
-RR_33,The manage my vehicle form is not properly filling as a registered user.,Failed,11-Mar-21,,Divya Bika
-RR_34,"The all spellings of textfields are not correct as ""company name""should be ""Company name"" as a registered user.",Partially Failed,11-Mar-21,,Divya Bika
-RR_35,The reports page is not in the website as a registered user.,Failed,11-Mar-21,,Divya Bika
-RR_36,The My trip page is not in the website as a registered user.,Failed,11-Mar-21,,Divya Bika
-RR_37,The map is not showing all the required location as a registered user.,Failed,11-Mar-21,,Divya Bika
-RR_38,The hide map is hiding the map as a registered user.,Passed,11-Mar-21,,Divya Bika
-RR_39,The zoom in zooming in the map as a registered user.,Passed,11-Mar-21,,Divya Bika
-RR_40,The zoom out is Zooming out the map as a registered user.,Passed,11-Mar-21,,Divya Bika
-RR_41,When we click on Blogs it is not going to the blogs page.,Failed,11-Mar-21,,Divya Bika
-RR_42,When we click on support it is  going to the support page.,Passed,11-Mar-21,,Divya Bika
-RR_43,When we click on support  it is showing the call us information .,Passed,11-Mar-21,,Divya Bika
-RR_44,When we click on support  it is showing the email information .,Passed,11-Mar-21,,Divya Bika
-RR_45,When we click on term and condition it is not going to the term and condition page.,Failed,11-Mar-21,,Divya Bika
-RR_46,When we click on privacy policy it is going to the privacy policy page.,Failed,11-Mar-21,,Divya Bika
-RR_47,When we click on about us it is going to the about us page.,Failed,11-Mar-21,,Divya Bika
-RR_48,It is asking to use another app for the call.,Passed,11-Mar-21,,Divya Bika
-RR_49,It is asking for another app for doing mail.,Passed,11-Mar-21,,Divya Bika
-RR_50,The address is showing  the proper address.,Passed,11-Mar-21,,Divya Bika
-RR_51,The content of  the truck finder is proper.,Partially Pass,11-Mar-21,,Divya Bika
-RR_52,The content of  the load finder is proper.,Partially Pass,11-Mar-21,,Divya Bika
-RR_53,The content of  the fleet manager is proper.,Partially Pass,11-Mar-21,,Divya Bika
-RR_54,The content of  the trip oragnizer is proper.,Partially Pass,11-Mar-21,,Divya Bika
-RR_55,The Search vehicle button should show search vehicle page.,Passed,11-Mar-21,,Divya Bika
-RR_56,The search vehicle for this route showing all the searches for this particular route,Failed,11-Mar-21,,Divya Bika
-RR_57,The search vehicle for this route not showing all the searches for this same route.,Failed,11-Mar-21,,Divya Bika
-RR_58,The search button in the search for this route showing for the different route,Passed,11-Mar-21,,Divya Bika
-RR_59,The dropdown should show all the dropdowns of that list.,Passed,11-Mar-21,,Divya Bika
-RR_60,The placeholder is not there with the dropdowns,Failed,11-Mar-21,,Divya Bika
-RR_61,The list is not visible ,Failed,11-Mar-21,,Divya Bika
-RR_62,The add button is showing all the add vehicle information to add,Passed,11-Mar-21,,Divya Bika
-RR_63,The manage my vehicle form is not properly filling.,Failed,11-Mar-21,,Divya Bika
-RR_64,"The all spellings of textfields are not correct as ""company name""should be ""Company name""",Partially Failed,11-Mar-21,,Divya Bika
-RR_65,The reports page is not in the website.,Failed,11-Mar-21,,Divya Bika
-RR_66,The My trip page is not in the website.,Failed,11-Mar-21,,Divya Bika
-RR_67,The map is not showing all the required location,Failed,11-Mar-21,,Divya Bika
-RR_68,The hide map is hiding the map,Passed,11-Mar-21,,Divya Bika
-RR_69,The zoom in zooming in the map,Passed,11-Mar-21,,Divya Bika
-RR_70,The zoom out is Zooming out the map.,Passed,11-Mar-21,,Divya Bika
-RR_71,The Map is properly showing the Map view for location with login,Passed,12-Mar-21,,Divya Bika
-RR_72,The Satellite  is properly showing the satellite view for location with login,Passed,12-Mar-21,,Divya Bika
-RR_73,The Map is properly showing the Map view for location without login,Passed,12-Mar-21,,Divya Bika
-RR_74,The Satellite  is properly showing the satellite view for location without login,Passed,12-Mar-21,,Divya Bika
-RR-75,"In Report the User Interaation report spelling is ""User intrection report""",Failed,12-Mar-21,,Divya Bika
-RR_76,"In report the User Payment report spelling is ""User Payements report"" which is wrong",Failed,12-Mar-21,,Divya Bika
+1,Must see a popup saying check email account for a reset password email,1,2021-02-03,1,Yogesh
+2,When we click on check pricing button it should show us the price of the subscription for rollingradius.,0,2021-02-17,2,Vikram Singh
+3,"When we click on register it was asking to enter the mobile number and enter the OTP then we can add our basic details like email, name, company name and create password. ",1,2021-03-05,2,Vikram Singh
+4,When we click on login it gives us a window to enter our phone number and password and once we put all required information then we will be able to login,1,2021-03-05,2,Vikram Singh
+5,"When we click on forgot password, It redirect us to the page to enter the phone number and get OTP and once we put the OTP it allows us to change the password.",1,2021-03-05,0,Vikram Singh
+6,"When we click on the Report Button, It shows us ""Load Request, User interaction, Pick up parcel, Drop Parcel, User payment & User paid fee"".",1,2021-03-05,1,Vikram Singh
+7,"When we click on the load request report, It shows us the report",1,2021-03-05,2,Vikram Singh
+8,"When we click on the User interaction report, It shows us the report",1,2021-03-05,0,Vikram Singh
+9,"When we click on the Pick up parcel report, It shows us the report",1,2021-03-05,2,Vikram Singh
+10,"When we click on the Drop Parcel report, It shows us the report",1,2021-03-05,1,Vikram Singh
+11,"When we click on the User payment report, It shows us the report",1,2021-03-05,2,Vikram Singh
+12,"When we click on the User paid fee report, It shows us the report",1,2021-03-05,0,Vikram Singh
+13,"When I clicked on search parcel, I was able to search parcels.",1,2021-03-09,2,Vikram Singh
+14,"When I clicked on search vehical, I was able to search vehicals.",1,2021-03-09,1,Vikram Singh
+15,When I clicked on language its showing to select English and  Hindi language.,1,2021-03-10,0,Vikram Singh
+16,When I selected the English language then website content was showing in English.,1,2021-03-10,2,Vikram Singh
+17,When I selected the Hindi language then website content was not showing in Hindi.,0,2021-03-10,2,Vikram Singh
+18,We are able to search vehicals.,1,2021-03-10,1,Vikram Singh
+19,We are able to search vehicals.,1,2021-03-10,2,Vikram Singh
+20,We are able to to see the page for searching vehicle and manage vehicle.,1,2021-03-10,0,Vikram Singh
+21,We are able to see the load data when we click on find load.,1,2021-03-10,2,Vikram Singh
+22,We are able to go the the next page of load data.,1,2021-03-10,2,Vikram Singh
+23,We are able to get into organize trip and this button was working fine.,1,2021-03-10,0,Vikram Singh
+24,We are able to click on my parcel and this link is working.,1,2021-03-10,2,Vikram Singh
+25,TBD,0,2021-03-10,1,Vikram Singh
+26,We are able to see the membership price.,1,2021-03-10,2,Vikram Singh
+27,TBD,0,2021-03-10,0,Vikram Singh
+28,We are not able to see the contact information and this button does not function at all.,0,2021-03-10,2,Vikram Singh
+29,We are not able to see the price and this button does not function at all.,0,2021-03-10,2,Vikram Singh
+30,We are not able to see the contact information and this button does not function at all.,0,2021-03-10,5,Vikram Singh
+31,We are not able to redirect to any link when clicked on get started. This function is not working.,0,2021-03-10,2,Vikram Singh
+32,We are able to search vehicals.,1,2021-03-10,2,Vikram Singh
+33,"When I clicked on search parcel, I was able to search parcels.",1,2021-03-10,2,Vikram Singh
+34,When I clicked on join us from quick links then it redirect to show me the subscription plan. It seems working.,1,2021-03-10,1,Vikram Singh
+35,When I clicked on vehicle add then it redirect to home page but did not show anything new content so we consider this scenario to failed.,0,2021-03-10,2,Vikram Singh
+36,When I clicked on language its showing to select English and  Hindi language.,1,2021-03-10,0,Vikram Singh
+37,When I selected the English language then website content was showing in English.,1,2021-03-10,2,Vikram Singh
+38,When I selected the Hindi language then website content was not showing in Hindi.,0,2021-03-10,0,Vikram Singh
+39,We are able to search vehicals.,1,2021-03-10,2,Vikram Singh
+40,We are able to search vehicals.,1,2021-03-10,0,Vikram Singh
+41,We are able to to see the page for searching vehicle and manage vehicle.,1,2021-03-10,2,Vikram Singh
+42,We are able to see the load data when we click on find load.,1,2021-03-10,0,Vikram Singh
+43,We are able to go the the next page of load data.,1,2021-03-10,2,Vikram Singh
+44,Link is working however it does not show any content.,0,2021-03-10,2,Vikram Singh
+45,Link redirect however we are not able to see the membership price.,0,2021-03-10,2,Vikram Singh
+46,We are not able to see the contact information and this button does not function at all.,0,2021-03-10,2,Vikram Singh
+47,We are not able to see the price and this button does not function at all.,0,2021-03-10,0,Vikram Singh
+48,We are not able to see the contact information and this button does not function at all.,0,2021-03-10,2,Vikram Singh
+49,We are not able to redirect to any link when clicked on get started. This function is not working.,0,2021-03-10,0,Vikram Singh
+50,We are able to search vehicals.,1,2021-03-10,1,Vikram Singh
+51,"When I clicked on search parcel, it redirected but it did not show anything.",0,2021-03-10,0,Vikram Singh
+52,When I clicked on join us from quick links then it redirected but did not show the subscription plans.,0,2021-03-10,1,Vikram Singh
+53,When I clicked on vehicle add then it redirect to home page but did not show anything new content so we consider this scenario to failed.,0,2021-03-10,2,Vikram Singh
+54,We are able to logout from the user account.,1,2021-03-11,0,Vikram Singh
+55,We are able to go to the setting options.,1,2021-03-11,2,Vikram Singh
+56,Profile link is not working. It does not do anything when we click on that.,0,2021-03-11,3,Vikram Singh
+57,We are able to get into company. This fucntion is working fine.,1,2021-03-11,0,Vikram Singh
+58,It let us open the form but when we select the city and state then nothing comes up from the drop down. When we type manually it does not take take that and wont allow us to submit.,0,2021-03-11,1,Vikram Singh
+59,It let us open the form but when we select the company and location then nothing comes up from the drop down. When we type manually it does not take take that and wont allow us to add.,0,2021-03-11,2,Vikram Singh
+60,We are able to select the partner company from the dropdown but nothing comes up in user company and it doesnot let us type manually.,0,2021-03-11,0,Vikram Singh
+61,When we clicked on market it redirected back to the home page of RR it did not open any market.,0,2021-03-11,1,Vikram Singh
+62,We are able to see the membership price.,1,2021-03-11,2,Vikram Singh
+63,We are able to see the support details.,1,2021-03-11,0,Vikram Singh
+64,We are able to make call by clicking on the phone number. It redirect to the skype to make call on same number.,1,2021-03-11,2,Vikram Singh
+65,We are able to make call by clicking on the phone number. It redirect to the skype to make call on same number.,1,2021-03-11,1,Vikram Singh
+66,When we open the  link of rolling radius with proper internet connection it is working properly as a public user,1,2021-03-10,0,Divya Bika
+67,when we click on User we are able to see all the dropdowns if login as a public user.,1,2021-03-10,2,Divya Bika
+68,When we click on login it is taking us to the login page as a public user,1,2021-03-10,1,Divya Bika
+69,When we click on login it is taking us to the register page as a public user,1,2021-03-10,1,Divya Bika
+70,When we click on login it is taking us to the forgot password page as a public user,1,2021-03-10,2,Divya Bika
+71,When we click on language button it is showing all the languages as a public user,1,2021-03-10,0,Divya Bika
+72,When we click on english it is showing all the content in english only as a public user,1,2021-03-10,0,Divya Bika
+73,When we clicked on Hindi language it is not showing the content in only Hindi as a public user.,0,2021-03-10,2,Divya Bika
+74,When we click on Rolling radius button it is taking us to the home page.,1,2021-03-10,0,Divya Bika
+75,When we click on learn more button it is showing more content for the same as a registered user.,1,2021-03-10,2,Divya Bika
+76,When we click on Blogs it is not going to the blogs page as a registered user.,0,2021-03-10,1,Divya Bika
+77,When we click on support  it is going to the support page as a registered user.,1,2021-03-10,2,Divya Bika
+78,When we click on support  it is  showing the call us information as a registered user.,1,2021-03-10,0,Divya Bika
+79,When we click on support  it is showing the email information as a registered user.,1,2021-03-10,1,Divya Bika
+80,When we click on term and condition it is not going to the term and condition page as a registered user.,0,2021-03-10,2,Divya Bika
+81,When we click on privacy policy it it is not going to the privacy policy page as a registered user.,0,2021-03-10,0,Divya Bika
+82,When we click on about us it it is not going to the about us page as a registered user.,0,2021-03-10,2,Divya Bika
+83,It is asking to use another app for the call as a registered user.,1,2021-03-10,0,Divya Bika
+84,It is asking  for another app for doing mail as a registered user.,1,2021-03-10,2,Divya Bika
+85,The address is showing the proper address as a registered user.,1,2021-03-10,0,Divya Bika
+86,The content of  the truck finder is proper as a registered user.,1,2021-03-10,2,Divya Bika
+87,The content of  the load finder is proper as a registered user.,1,2021-03-10,1,Divya Bika
+88,The content of  the fleet manager is proper as a registered user.,1,2021-03-10,0,Divya Bika
+89,The content of  the trip oragnizer is proper as a registered user.,1,2021-03-10,0,Divya Bika
+90,The Search vehicle button should show search vehicle page as a registered user.,1,2021-03-10,2,Divya Bika
+91,The search vehicle for this route showing all the searches for this particular route as a registered user.,1,2021-03-10,1,Divya Bika
+92,The search vehicle for this route not showing all the searches for this same route as a registered user.,0,2021-03-10,0,Divya Bika
+93,The search button in the search for this route showing for the different route as a registered user.,1,2021-03-10,2,Divya Bika
+94,The dropdown showing all the dropdowns of that list as a registered user.,1,2021-03-10,1,Divya Bika
+95,The placeholder is not there with the dropdown as a registered user.,0,2021-03-10,2,Divya Bika
+96,The list is not visible as a registered user.,0,2021-03-10,0,Divya Bika
+97,The add button is showing all the add vehicle information to add as a registered user.,1,2021-03-10,1,Divya Bika
+98,The manage my vehicle form is not properly filling as a registered user.,0,2021-03-11,2,Divya Bika
+99,"The all spellings of textfields are not correct as ""company name""should be ""Company name"" as a registered user.",0,2021-03-11,0,Divya Bika
+100,The reports page is not in the website as a registered user.,0,2021-03-11,2,Divya Bika
+101,The My trip page is not in the website as a registered user.,0,2021-03-11,1,Divya Bika
+102,The map is not showing all the required location as a registered user.,0,2021-03-11,0,Divya Bika
+103,The hide map is hiding the map as a registered user.,1,2021-03-11,1,Divya Bika
+104,The zoom in zooming in the map as a registered user.,1,2021-03-11,2,Divya Bika
+105,The zoom out is Zooming out the map as a registered user.,1,2021-03-11,0,Divya Bika
+106,When we click on Blogs it is not going to the blogs page.,0,2021-03-11,2,Divya Bika
+107,When we click on support it is  going to the support page.,1,2021-03-11,1,Divya Bika
+108,When we click on support  it is showing the call us information .,1,2021-03-11,2,Divya Bika
+109,When we click on support  it is showing the email information .,1,2021-03-11,0,Divya Bika
+110,When we click on term and condition it is not going to the term and condition page.,0,2021-03-11,0,Divya Bika
+111,When we click on privacy policy it is going to the privacy policy page.,0,2021-03-11,1,Divya Bika
+112,When we click on about us it is going to the about us page.,0,2021-03-11,2,Divya Bika
+113,It is asking to use another app for the call.,1,2021-03-11,0,Divya Bika
+114,It is asking for another app for doing mail.,1,2021-03-11,2,Divya Bika
+115,The address is showing  the proper address.,1,2021-03-11,1,Divya Bika
+116,The content of  the truck finder is proper.,0,2021-03-11,2,Divya Bika
+117,The content of  the load finder is proper.,0,2021-03-11,0,Divya Bika
+118,The content of  the fleet manager is proper.,0,2021-03-11,2,Divya Bika
+119,The content of  the trip oragnizer is proper.,0,2021-03-11,1,Divya Bika
+120,The Search vehicle button should show search vehicle page.,1,2021-03-11,2,Divya Bika
+121,The search vehicle for this route showing all the searches for this particular route,0,2021-03-11,0,Divya Bika
+122,The search vehicle for this route not showing all the searches for this same route.,0,2021-03-11,2,Divya Bika
+123,The search button in the search for this route showing for the different route,1,2021-03-11,2,Divya Bika
+124,The dropdown should show all the dropdowns of that list.,1,2021-03-11,1,Divya Bika
+125,The placeholder is not there with the dropdowns,0,2021-03-11,2,Divya Bika
+126,The list is not visible ,0,2021-03-11,0,Divya Bika
+127,The add button is showing all the add vehicle information to add,1,2021-03-11,2,Divya Bika
+128,The manage my vehicle form is not properly filling.,0,2021-03-11,1,Divya Bika
+129,"The all spellings of textfields are not correct as ""company name""should be ""Company name""",0,2021-03-11,2,Divya Bika
+130,The reports page is not in the website.,0,2021-03-11,0,Divya Bika
+131,The My trip page is not in the website.,0,2021-03-11,2,Divya Bika
+132,The map is not showing all the required location,0,2021-03-11,1,Divya Bika
+133,The hide map is hiding the map,1,2021-03-11,2,Divya Bika
+134,The zoom in zooming in the map,1,2021-03-11,0,Divya Bika
+135,The zoom out is Zooming out the map.,1,2021-03-11,0,Divya Bika
+136,The Map is properly showing the Map view for location with login,1,2021-03-12,2,Divya Bika
+137,The Satellite  is properly showing the satellite view for location with login,1,2021-03-12,1,Divya Bika
+138,The Map is properly showing the Map view for location without login,1,2021-03-12,2,Divya Bika
+139,The Satellite  is properly showing the satellite view for location without login,1,2021-03-12,2,Divya Bika
+140,"In Report the User Interaation report spelling is ""User intrection report""",0,2021-03-12,0,Divya Bika
+141,"In report the User Payment report spelling is ""User Payements report"" which is wrong",0,2021-03-12,2,Divya Bika
